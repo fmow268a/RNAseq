@@ -2,10 +2,6 @@
 Pipeline mRNA-seq
 ===========================
 
-:Author: Tariq Khoyratty
-:Release: $Id$
-:Date: |today|
-:Tags: Python
 
 Overview
 ========
